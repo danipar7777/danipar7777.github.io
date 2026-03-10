@@ -9,7 +9,7 @@ Contiene la Política de Privacidad y los Términos y Condiciones para Sueca Onl
 3. Activa GitHub Pages en Settings → Pages → source: main branch.
 4. La URL será: `https://<usuario>.github.io/sueca-game-legal/`
 
-Para Sueca Game se usa: `https://danipar7777.github.io/sueca-game-legal/`
+Para Sueca Game se usa: `https://danipar7777.github.io/`
 
 ## Archivos
 
@@ -23,5 +23,5 @@ Para Sueca Game se usa: `https://danipar7777.github.io/sueca-game-legal/`
 
 En `.env`:
 ```
-EXPO_PUBLIC_LEGAL_BASE_URL=https://danipar7777.github.io/sueca-game-legal
+EXPO_PUBLIC_LEGAL_BASE_URL=https://danipar7777.github.io
 ```
